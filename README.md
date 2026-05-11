@@ -6,3 +6,4 @@ Series - Building a Scalable REST API with Node.js and Express PRO
 5 - (5) SQL Injection Mongodb Chỉ đơn giản thế này là XONG PHIM và cách phòng chống  | Node.js Backend
 (6) Một Backend API không thể thiếu ApiKEY in router | Build Node.js Backend Architecture PRO
 1.Course: Node.js Backend Architecture - Giới thiệu dự án, kinh nghiệm, kỹ năng và tâm sự NGHỀ | (1)
+2.Section 2: Node.js Backend Architecture - Những folders và packages cần thiết khi khởi tạo Project!
