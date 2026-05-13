@@ -7,4 +7,5 @@ Series - Building a Scalable REST API with Node.js and Express PRO
 (6) Một Backend API không thể thiếu ApiKEY in router | Build Node.js Backend Architecture PRO
 1.Course: Node.js Backend Architecture - Giới thiệu dự án, kinh nghiệm, kỹ năng và tâm sự NGHỀ | (1)
 2.Section 2: Node.js Backend Architecture - Những folders và packages cần thiết khi khởi tạo Project!
-3.Section 3
+3.Section 3: Connect MongoDB to Node.js Using Mongoose và 7 điều cần triển khai trong hệ thống.
+4.Section 4: Lịch sử của .env và cách kết hợp env và configs cho dự án nhiều môi trường và Members
