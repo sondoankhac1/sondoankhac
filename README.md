@@ -1,5 +1,6 @@
 Video 1. How to fix create-react-app: command not found
 Video 2
+Video 3
 Series - Building a Scalable REST API with Node.js and Express PRO
 1 -  ( Phần 1) 13 tips cần BIẾT của một lập trình BackEnd khi bắt đầu xây dựng  REST API
 2 - ( Phần 2) 13 tips cần BIẾT của một lập trình BackEnd khi bắt đầu xây dựng  REST AP
